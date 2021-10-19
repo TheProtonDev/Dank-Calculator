@@ -1,6 +1,9 @@
 ## How To Use Dank Calculator
-## GIT CLONE THIS DIRECTORY
+## Use ```git clone
 - Install lci (LolCode Interpreter)
-    - On Arch: sudo pacman -S lci
-    - On Ubuntu: sudo apt-get install lci
- Then just CD into this directory
+    - On Arch: yay -S lci
+ Then just CD into the newly cloned directory
+ and run
+ ```sh
+ lci dank_calculator.lol
+ ```
